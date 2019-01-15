@@ -1,0 +1,48 @@
+.header h1 {
+  text-align: center;
+  color:pink;
+}
+
+.jumbotron {
+  background-color: lightblue;
+}
+
+body {
+  background-color: lightpink;
+}
+.cat h2 {
+  text-align: center;
+  color:lightblue;
+}
+
+.dog h2 {
+  text-align: center;
+  color:lightblue;
+}
+
+.test {
+  align-items: center;
+  text-align: center;
+}
+
+img {
+  width:200px;
+  height: 200px;
+}
+button {
+  width:70px;
+  height:40px;
+}
+
+.btn-bg {
+  background-color: lightblue;
+  color:pink;
+}
+
+.cat, .dog {
+  text-align: center;
+}
+ul{
+  list-style-type: none;
+  color:lightblue;
+}
